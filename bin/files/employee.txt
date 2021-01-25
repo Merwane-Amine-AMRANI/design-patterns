@@ -1,0 +1,40 @@
+Mary         46  Full Time
+James        42  Full Time
+John         51  Full Time
+Patricia     38  Full Time
+Robert       22  Full Time
+Jennifer     21  Part Time
+Michael      25  Part Time
+Linda        27  Full Time
+William      23  Part Time
+Elizabeth    28  Part Time
+David        30  Contractor
+Barbara      33  Full Time
+Richard      27  Contractor
+Susan        31  Part Time
+Joseph       25  Contractor
+Robert       42  Full Time
+Jessica      26  Full Time
+Thomas       32  Contractor
+Jennifer     38  Full Time
+Sarah        30  Contractor
+Charles      24  Full Time
+Karen        24  Full Time
+Elizabeth    28  Full Time
+Christopher  23  Part Time
+Nancy        25  Full Time
+David        46  Full Time
+Daniel       28  Part Time
+Lisa         30  Part Time
+Susan        32  Full Time
+Matthew      25  Part Time
+Margaret     25  Contractor
+Richard      46  Full Time
+Anthony      29  Full Time
+Betty        28  Contractor
+Donal        30  Contractor
+Joseph       35  Full Time
+Sandra       26  Contractor
+Mark         31  Part Time
+Ashley       33  Full Time
+Paul         28  Contractor

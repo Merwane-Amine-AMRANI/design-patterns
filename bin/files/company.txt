@@ -1,0 +1,43 @@
+Company:
+    name: Software that works Inc.
+    ceo: Mary
+    cto: James
+    cfo: John
+    departments: Finance, Human Resources, software
+
+Department:
+    Finance:
+        head: Patricia
+        managers: Robert, Jennifer, Michael
+        projects: Loan Service, Asset Management
+    Human Resources:
+        head: Linda
+        managers: William, Elizabeth, David
+        projects: Recruiting, Payment
+    Software:
+        head: Barbara
+        managers: Richard, Susan, Joseph
+        projects: Web Design, Database Access, Business Management
+
+Projects:
+    Loan Service
+        head: Robert
+        work force: Jessica, Thomas
+    Asset Management
+        head: Jennifer
+        work force: Sarah, Charles, Karen
+    Recruiting
+        head: Elizabeth
+        work force: Christopher, Nancy
+    Payment
+        head: David
+        work force: Daniel, Lisa
+    Web Design
+        head: Susan
+        work force: Matthew, Margaret
+    Database Access
+        head: Richard
+        work force: Anthony, Betty, Donal
+    Business Management
+        head: Joseph
+        work force: Sandra, Mark, Ashley, Paul

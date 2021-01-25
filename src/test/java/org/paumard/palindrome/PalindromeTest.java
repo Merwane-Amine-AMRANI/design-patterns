@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class PalindromeTest {
 
-    @Test @Ignore
+    @Test 
     public void should_return_true_for_an_empty_sentence() {
 
         // Given
@@ -20,7 +20,7 @@ public class PalindromeTest {
         Assertions.assertThat(isPalindrome).isTrue();
     }
 
-    @Test @Ignore
+    @Test 
     public void should_return_true_for_a_one_char_sentence() {
 
         // Given
@@ -34,7 +34,7 @@ public class PalindromeTest {
         Assertions.assertThat(isPalindrome).isTrue();
     }
 
-    @Test @Ignore
+    @Test 
     public void should_return_true_for_a_two_chars_sentence_with_same_letters() {
 
         // Given
@@ -48,7 +48,7 @@ public class PalindromeTest {
         Assertions.assertThat(isPalindrome).isTrue();
     }
 
-    @Test @Ignore
+    @Test 
     public void should_return_false_for_a_two_chars_sentence_with_different_letters() {
 
         // Given

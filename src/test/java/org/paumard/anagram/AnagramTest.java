@@ -1,12 +1,11 @@
 package org.paumard.anagram;
 
 import org.assertj.core.api.Assertions;
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class AnagramTest {
 
-    @Test @Ignore
+    @Test 
     public void should_return_true_for_two_empty_sentences() {
 
         // Given
@@ -21,7 +20,7 @@ public class AnagramTest {
         Assertions.assertThat(isAnagram).isTrue();
     }
 
-    @Test @Ignore
+    @Test
     public void should_return_true_for_two_equal_sentences() {
 
         // Given
@@ -36,7 +35,7 @@ public class AnagramTest {
         Assertions.assertThat(isAnagram).isTrue();
     }
 
-    @Test @Ignore
+    @Test 
     public void should_return_true_for_two_equal_sentences_mixed_case() {
 
         // Given
@@ -51,7 +50,7 @@ public class AnagramTest {
         Assertions.assertThat(isAnagram).isTrue();
     }
 
-    @Test @Ignore
+    @Test 
     public void should_return_true_for_two_anagrams_1() {
 
         // Given
@@ -66,7 +65,7 @@ public class AnagramTest {
         Assertions.assertThat(isAnagram).isTrue();
     }
 
-    @Test @Ignore
+    @Test 
     public void should_return_true_for_two_anagrams_2() {
 
         // Given
@@ -81,7 +80,7 @@ public class AnagramTest {
         Assertions.assertThat(isAnagram).isTrue();
     }
 
-    @Test @Ignore
+    @Test 
     public void should_return_false_for_two_different_sentences() {
 
         // Given
